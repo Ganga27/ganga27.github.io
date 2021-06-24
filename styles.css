@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: blanchedalmond;
+    font-weight: 700;
+}
+
+ .container {
+    width:80%;
+    margin: 0 auto;
+ }
+
+ header {
+     background:#896EA3;
+     height: 70px 
+ }
+
+ nav {
+     float: left;
+ }
+
+ nav ul {
+    margin: 0;
+    padding:0;
+    list-style: none;
+ }
+
+ nav li {
+    display: inline;
+    margin-left: 70px;
+    padding: 15px;
+ }
+
+ nav a {
+     top: 25px;
+     text-decoration: none;
+     font-size: 16px;
+     position: relative;
+ }
+
+ nav a:hover {
+     color: rgb(63, 6, 63);
+ }
+
+ footer {
+     text-align: center;
+     padding: 3px;
+     background-color:rgb(63, 6, 63);
+     color:blanchedalmond;
+ }
+.title {
+    color: rgb(39, 26, 37);
+    text-align:center;
+    margin-bottom:320px;
+    margin-top:200px; 
+}
